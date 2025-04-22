@@ -17,7 +17,5 @@ Application de gestion d'animalerie utilisant :
 - Relations ManyToMany entre produits et animaleries
 - Héritage JPA pour les différents types d'animaux
 
-## 📦 Structure du projet
-
 
 NGUETTE FANE Gad
